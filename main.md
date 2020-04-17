@@ -1,5 +1,5 @@
 TREATMENT
- - 17Apr20_Ayres_ScienceAdvances https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf
+ - [17Apr20_Ayres_ScienceAdvances](https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf)
 ***
 HOSPITAL
  - nosocomial transmission
