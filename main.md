@@ -2,10 +2,10 @@
 
 TREATMENT
  - 17Apr20_Ayres_ScienceAdvances https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf
-  
+***
 HOSPITAL
  - nosocomial transmission
-  
+---
 SYMPTOMS
  - anosmia
  - fever
@@ -14,7 +14,7 @@ SYMPTOMS
  - tussis 
  - dyspnea
  - diarrhoea
-
+---
 OTHER VIRAL EPIDEMICS
  - pandemics
    - Spanish flu 
@@ -29,10 +29,9 @@ OTHER VIRAL EPIDEMICS
    - H1N1 I'Bird flu')
 
 
---
-
+---
 STRUCTURAL BIOLOGY
  
  
- 
+---
 GENERAL VIROLOGY
