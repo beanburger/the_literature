@@ -1,5 +1,3 @@
-# the_literature
-
 TREATMENT
  - 17Apr20_Ayres_ScienceAdvances https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf
 ***
