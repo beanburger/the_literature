@@ -9,7 +9,7 @@
 **INDICATIONS**
  - radiological ground-glass lung opacities
  - lymphopenia
- = thrombocytopenia
+ - thrombocytopenia
  - increased C-reactive protein levels
  - increased lactate dehydrogenase levels
 
