@@ -4,7 +4,7 @@
 **HOSPITAL**
  - [nosocomial transmission](../master/nosocomial_transmission.md)
  - [subclinical transmission](../master/subclinical_transmission.md)
- - [Personal Protectice Equipment](../master/ppe.md)
+ - [personal protectice equipment](../master/ppe.md)
 ---
 **SYMPTOMS**
  - anosmia
