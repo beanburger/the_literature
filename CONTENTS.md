@@ -6,6 +6,17 @@
  - [subclinical transmission](../master/subclinical_transmission.md)
  - [personal protectice equipment](../master/ppe.md)
 ---
+**INDICATIONS**
+ - radiological ground-glass lung opacities
+ - lymphopenia
+ = thrombocytopenia
+ - increased C-reactive protein levels
+ - increased lactate dehydrogenase levels
+
+---
+**VIRAL LOAD**
+ "108 copies per milliliter in his sputum"
+---
 **SYMPTOMS**
  - anosmia
  - fever
