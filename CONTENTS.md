@@ -3,6 +3,7 @@
 ***
 **HOSPITAL**
  - [nosocomial transmission](../master/nosocomial_transmission.md)
+ - [subclinical transmission](../master/subclinical_transmission.md)
 ---
 **SYMPTOMS**
  - anosmia
@@ -10,6 +11,7 @@
  - respiratory failure
  - myalgia
  - tussis 
+ - catarrh
  - dyspnea
  - diarrhoea
 ---
