@@ -6,4 +6,4 @@ novel coronavirus indicating person-to-person transmission:
 a study of a family cluster"](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930154-9)
 
 - "patient undergoing surgery in a hospital in Wuhan infected 14 health-care workers even before fever onset."
-  - [22_Jan20_WHO. "Novel coronavirus (2019-nCoV) situation report—2"](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf)
+  - [22_Jan20_WHO. "Novel coronavirus (2019-nCoV) situation report—2"](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf) - However, this report does not detail this specific case, it is described in the referencing correspondence (08Mar20_DeChang_Lancet).
