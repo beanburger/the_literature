@@ -15,7 +15,7 @@
 
 ---
 **VIRAL LOAD**
- "108 copies per milliliter in his sputum"
+ - "108 copies per milliliter in his sputum"
 ---
 **SYMPTOMS**
  - anosmia
