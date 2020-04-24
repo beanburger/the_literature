@@ -1,6 +1,6 @@
 - [nosocomial](../master/nosocomial_transmission.md)
 
-- [subclinical transmission](../master/subclinical_transmission.md)
+- [subclinical](../master/subclinical_transmission.md)
 
 
 - Ocular
