@@ -3,4 +3,4 @@ However, the 06Feb20 [link is now dud.](http://wwwnhcgovcn/jkj/s7916/202001/44a3
 
 Eye Protection
 - 
-[13Feb20_Li_BMJ:"Novel Coronavirus disease 2019 (COVID-19): The importance of recognising possible early ocular manifestation and using protective eyewear"](https://bjo.bmj.com/content/bjophthalmol/104/3/297.full.pdf)
+[13Feb20 BMJ: "Novel Coronavirus disease 2019 (COVID-19): The importance of recognising possible early ocular manifestation and using protective eyewear"](https://bjo.bmj.com/content/bjophthalmol/104/3/297.full.pdf)
