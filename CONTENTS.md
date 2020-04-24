@@ -26,6 +26,7 @@
  - catarrh
  - dyspnea
  - diarrhoea
+ - [conjuctivitis](../master/conjunctivitis.md)
 ---
 **OTHER VIRAL EPIDEMICS**
  - pandemics
