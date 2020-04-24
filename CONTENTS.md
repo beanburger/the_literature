@@ -7,8 +7,8 @@
  - [personal protectice equipment](../master/ppe.md)
 ---
 **DETECTION**
- - [Real-Time PCR](../master/RT-PCR.md)
- - [Serology](../master/serology.md)
+ - [real-time PCR](../master/RT-PCR.md)
+ - [serology](../master/serology.md)
 ---
 **INDICATIONS**
  - radiological ground-glass lung opacities
