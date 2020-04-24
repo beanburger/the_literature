@@ -1,5 +1,5 @@
 **TREATMENT**
- - [17Apr20_Ayres_ScienceAdvances "Surviving COVID-19: A disease tolerance perspective"](https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf)
+ - [17Apr20_Science Advances: "Surviving COVID-19: A disease tolerance perspective"](https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf)
 ---
 **HOSPITAL**
  - [transmission](../master/transmission.md)
@@ -34,9 +34,8 @@
  - [conjuctivitis](../master/conjunctivitis.md)
 --- 
 **REVIEWS**
- - [16Mar20_Seah_Ocular Immunology and Inflammation:"Can the Coronavirus Disease 2019 (COVID-19)
-Affect the Eyes? A Review of Coronaviruses and
-Ocular Implications in Humans and Animals"](https://www.tandfonline.com/doi/pdf/10.1080/09273948.2020.1738501)
+ - [16Mar20_Ocular Immunology and Inflammation: "Can the Coronavirus Disease 2019 (COVID-19)
+Affect the Eyes? A Review of Coronaviruses and Ocular Implications in Humans and Animals"](https://www.tandfonline.com/doi/pdf/10.1080/09273948.2020.1738501)
 ---
 **OTHER VIRAL EPIDEMICS**
  - pandemics
