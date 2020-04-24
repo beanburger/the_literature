@@ -1,1 +1,1 @@
-[17Apr20_Colavita_Annals_of_Internal_Medicine:"SARS-CoV-2 Isolation From Ocular Secretions of a Patient With COVID-19 in Italy With Prolonged Viral RNA Detection"](https://annals.org/aim/fullarticle/2764963/sars-cov-2-isolation-from-ocular-secretions-patient-covid-19)
+[17Apr20_Annals_of_Internal_Medicine: "SARS-CoV-2 Isolation From Ocular Secretions of a Patient With COVID-19 in Italy With Prolonged Viral RNA Detection"](https://annals.org/aim/fullarticle/2764963/sars-cov-2-isolation-from-ocular-secretions-patient-covid-19)
