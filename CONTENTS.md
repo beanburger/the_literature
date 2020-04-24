@@ -1,5 +1,5 @@
 **TREATMENT**
- - [17Apr20_Science Advances: "Surviving COVID-19: A disease tolerance perspective"](https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf)
+ - [17Apr20 Science Advances: "Surviving COVID-19: A disease tolerance perspective"](https://advances.sciencemag.org/content/early/2020/04/16/sciadv.abc1518/tab-pdf)
 ---
 **HOSPITAL**
  - [transmission](../master/transmission.md)
