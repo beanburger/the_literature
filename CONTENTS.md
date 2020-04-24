@@ -31,6 +31,11 @@
  - dyspnea
  - diarrhoea
  - [conjuctivitis](../master/conjunctivitis.md)
+--- 
+**REVIEWS**
+ - [16Mar20_Seah_Ocular Immunology and Inflammation:"Can the Coronavirus Disease 2019 (COVID-19)
+Affect the Eyes? A Review of Coronaviruses and
+Ocular Implications in Humans and Animals"](https://www.tandfonline.com/doi/pdf/10.1080/09273948.2020.1738501)
 ---
 **OTHER VIRAL EPIDEMICS**
  - pandemics
@@ -44,6 +49,7 @@
  - outbreaks
    - H5N1 ('Swine flu')
    - H1N1 I'Bird flu')
+
 
 
 ---
